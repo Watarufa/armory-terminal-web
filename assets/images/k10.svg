@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 140" role="img">
+  <rect x="0" y="0" width="320" height="140" fill="#12161c"/>
+  <rect x="5" y="5" width="310" height="130" fill="none" stroke="#2b3742" stroke-width="2"/>
+  <line x1="16" y1="104" x2="304" y2="104" stroke="#1f2732" stroke-width="2"/>
+  <text x="303" y="24" text-anchor="end" font-family="monospace" font-size="11" fill="#58626d">SMG</text>
+  <rect x="70" y="55" width="22" height="8" fill="#5f6871"/>
+  <rect x="90" y="50" width="120" height="20" fill="#838d97"/>
+  <rect x="96" y="53" width="96" height="3" fill="#3dc9e8"/>
+  <rect x="208" y="56" width="34" height="8" fill="#838d97"/>
+  <polygon points="196,70 210,70 208,92 198,92" fill="#5f6871"/>
+  <polygon points="150,70 170,70 166,104 146,104" fill="#5f6871"/>
+  <polygon points="120,70 136,70 132,96 116,96" fill="#5f6871"/>
+  <text x="16" y="128" font-family="monospace" font-size="15" fill="#cdd6df">K10 BUZZSAW</text>
+</svg>
